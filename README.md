@@ -10,8 +10,8 @@
 
 ## Tools
 
-- **Language**: Typescript
-- **Runtime environment** : NodeJS 18 LTS (aka NodeJS LTS Hydrogen)
+- **Programming Language**: Typescript
+- **Runtime Environment** : NodeJS 18 LTS (aka NodeJS LTS Hydrogen)
 - **Testing Framework** : Jest
 - **Documentation Language** : JSDoc
 - **Code Formatter** : Prettier
