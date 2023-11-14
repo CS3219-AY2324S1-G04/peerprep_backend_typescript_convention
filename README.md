@@ -1,3 +1,13 @@
+# PeerPrep Back-end Typescript Convention
+
+## Usage as Base Template
+
+1. Run `npm install` to install all dependencies specified in `package.json`
+2. Make sure to change the name of the package in `package.json`
+3. Make sure to change the description of the package in `package.json`
+4. Delete this `README.md`
+5. Delete `./src/sum.ts` and `./src/__tests__/sum.test.ts`
+
 ## Tools
 
 - **Runtime environment** : NodeJS 18 LTS (aka NodeJS LTS Hydrogen)
@@ -13,14 +23,6 @@
 - **Typescript member ordering** : Refer to [this](https://typescript-eslint.io/rules/member-ordering/#default-configuration)
 
 Refer to `.eslintrc` for more conventions. Alternatively, learn them as you encounter errors and warnings in your code.
-
-## To Do
-
-- Run `npm install` to install all dependencies specified in `package.json`
-- Make sure to change the name of the package in `package.json`
-- Make sure to change the description of the package in `package.json`
-- Delete this `README.md`
-- Delete `./src/sum.ts` and `./src/__tests__/sum.test.ts`
 
 ## NPM Scripts
 
