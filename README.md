@@ -19,9 +19,9 @@
 
 ## Conventions
 
-- **File naming convention** : Snake case (e.g. `file_name.ts`)
-- **Typescript naming convention** : ESLint's camel case convention described [here](https://typescript-eslint.io/rules/naming-convention/#enforce-the-codebase-follows-eslints-camelcase-conventions)
-- **Typescript member ordering** : Refer to [this](https://typescript-eslint.io/rules/member-ordering/#default-configuration)
+- **File Naming Convention** : Snake case (e.g. `file_name.ts`)
+- **Typescript Naming Convention** : ESLint's camel case convention described [here](https://typescript-eslint.io/rules/naming-convention/#enforce-the-codebase-follows-eslints-camelcase-conventions)
+- **Typescript Class Member Ordering** : Refer to [this](https://typescript-eslint.io/rules/member-ordering/#default-configuration)
 
 Refer to `.eslintrc` for more conventions. Alternatively, learn them as you encounter errors and warnings in your code.
 
